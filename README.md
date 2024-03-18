@@ -15,6 +15,8 @@ curl -sSO https://raw.githubusercontent.com/loadream/BTPanel/main/install/instal
 curl -sSO https://raw.githubusercontent.com/loadream/BTPanel/main/bthappy/one_key_happy.sh && bash one_key_happy.sh
 ```
 
+&nbsp;
+
 **Debian 11 install Docker**
 
 ```Bash
