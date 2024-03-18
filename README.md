@@ -3,7 +3,7 @@ BT Panel v7.7.0
 
 &nbsp;
 
-**Ubuntu/Debian python3.7**
+**Ubuntu & Debian python3.7**
 
 ```Bash
 apt-get update -y && apt-get install curl -y
