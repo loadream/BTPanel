@@ -50,3 +50,20 @@ sudo systemctl is-active docker
 ```Bash
 sudo systemctl enable docker
 ```
+
+&nbsp;
+
+```Bash
+sed -i "s|bind_user == 'True'|bind_user == 'XXXX'|" /www/server/panel/BTPanel/static/js/index.js
+```
+
+```Bash
+rm -f /www/server/panel/data/bind.pl
+```
+
+/www/server/panel/data/plugin.json 
+Search string: "endtime": -1 Replace all with "endtime": 999999999999
+
+```Bash
+chattr +i /www/server/panel/data/plugin.json
+```
