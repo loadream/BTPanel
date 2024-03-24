@@ -1,5 +1,5 @@
 # BT Panel
-BT Panel v7.7.0
+BT Panel v7.7.0 Backup
 
 **Nginx一定要选择编译版，不要选择极速版安装**
 
