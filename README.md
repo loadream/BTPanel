@@ -3,8 +3,6 @@ BT Panel v7.7.0 Backup
 
 **Nginx一定要选择编译版，不要选择极速版安装**
 
-&nbsp;
-
 **Ubuntu & Debian python3.7**
 
 ```Bash
@@ -14,6 +12,8 @@ apt-get update -y && apt-get install curl -y
 ```Bash
 curl -sSO https://raw.githubusercontent.com/loadream/BTPanel/main/install/install_panel.sh && bash install_panel.sh
 ```
+
+&nbsp;
 
 **一键安装开心版脚本**
 
