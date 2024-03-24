@@ -15,7 +15,7 @@ apt-get update -y && apt-get install curl -y
 curl -sSO https://raw.githubusercontent.com/loadream/BTPanel/main/install/install_panel.sh && bash install_panel.sh
 ```
 
-**自动安装开心版**
+**一键安装开心版脚本**
 
 ```Bash
 curl -sSO https://raw.githubusercontent.com/loadream/BTPanel/main/bthappy/one_key_happy.sh && bash one_key_happy.sh
