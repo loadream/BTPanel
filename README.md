@@ -1,7 +1,11 @@
 # BT Panel
 BT Panel v7.7.0 Backup
 
+&nbsp;
+
 **Nginx一定要选择编译版，不要选择极速版安装**
+
+&nbsp;
 
 **Ubuntu & Debian python3.7**
 
