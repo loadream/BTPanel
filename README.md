@@ -5,6 +5,8 @@
 
 **Nginx一定要选择编译版，不要选择极速版安装**
 
+&nbsp;
+
 个人推荐去试试搬瓦工的 CN2 GIA-E 线路的Debian 11系统的VPS
 
 https://stock.bwg.net/
