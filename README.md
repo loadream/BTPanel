@@ -1,5 +1,4 @@
-# BT Panel
-**BT Panel v7.7.0 Backup**
+# BT Panel v7.7.0
 
 &nbsp;
 
