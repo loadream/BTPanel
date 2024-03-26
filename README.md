@@ -90,6 +90,8 @@ chattr +i /www/server/panel/data/plugin.json
 sed -i "s|if (bind_user == 'REMOVED') {|if (bind_user == 'True') {|g" /www/server/panel/BTPanel/static/js/index.js
 ```
 
+&nbsp;
+
 **aaPanel**
 ```Bash
 URL=https://www.aapanel.com/script/install_6.0_en.sh && if [ -f /usr/bin/curl ];then curl -ksSO "$URL" ;else wget --no-check-certificate -O install_6.0_en.sh "$URL";fi;bash install_6.0_en.sh aapanel
