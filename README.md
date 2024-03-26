@@ -5,9 +5,7 @@
 &nbsp;
 
 **Ubuntu 20.04 amd64 python3.7**
-
 &nbsp;
-
 **Debian 11 amd64 python3.7**
 
 ```Bash
@@ -20,7 +18,7 @@ curl -sSO https://raw.githubusercontent.com/loadream/BTPanel/main/install/instal
 
 &nbsp;
 
-**一键安装开心版脚本**
+**自动安装开心版脚本**
 
 ```Bash
 curl -sSO https://raw.githubusercontent.com/loadream/BTPanel/main/bthappy/one_key_happy.sh && bash one_key_happy.sh
