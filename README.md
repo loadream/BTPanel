@@ -1,12 +1,11 @@
 # BT Panel v7.7.0
 
-&nbsp;
-
 **Nginx一定要选择编译版，不要选择极速版安装**
 
 &nbsp;
 
-**Ubuntu & Debian python3.7**
+**Ubuntu 20.04 amd64 python3.7**
+**Debian 11 amd64 python3.7**
 
 ```Bash
 apt-get update -y && apt-get install curl -y
